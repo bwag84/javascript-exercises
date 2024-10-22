@@ -27,8 +27,3 @@ const repeatString = function (string, num) {
 // Do not edit below this line
 module.exports = repeatString;
 
-
-//we take a string
-//if it is not a string, we return error
-//we loop it... what does that mean. We loop through what?
-//if we are <num, we repeat, until i === num
